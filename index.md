@@ -1,13 +1,12 @@
 # Big Data Profile
---
+
 ## Big Data - Hadoop
 
 Hadoop - how to install hadoop and its services.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/gaurav619/Hadoop)
-## Upgrad Course Git Assignment
 
-
+--
 
 ## Upgrad - GitHub Course Assignment
 
