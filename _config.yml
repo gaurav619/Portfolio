@@ -1,14 +1,17 @@
 title: <p slign="center" > Gaurav Parmar </p>
 logo: /assets/img/Gaurav.jpg
 description:
-  <p alogn="center">
+  <p align="center">
   <a href = "pdf/resume.pdf"> Resume </a>
-  <a href = "https://www.linkedin.com/in/gaurav-parmar-b306302b/l> Linkedin </a>
+  <a href = "https://www.linkedin.com/in/gaurav-parmar-b306302b/l> LinkedIn </a>
   <a href = "https://github.com/gaurav619/>GitHub </a>
+  
+  
   <br>
   I'm working on Big Data, Spark, python on project related to insurance domain.
   Where we deal with problems like customer data analysis, understand narket growth and act accordingly
   We also work on fraud detection using pattern analysis
   Having 12 Yrs of experience in software development
-  </br>
+  <br>
   </p>
+ theme: jekyll-theme-minimal
