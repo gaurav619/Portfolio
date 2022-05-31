@@ -1,6 +1,14 @@
-title: Gaurav Parmar
+title: <p slign="center" > Gaurav Parmar </p>
 logo: /assets/img/gaurav.jpg
-description: Data Scientist
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+description:
+  <p alogn="center">
+  <a href = "pdf/resume.pdf"> Resume </a>
+  <a href = "https://linkedin_url>Linedin </a>
+  <a href = "https://github>GitHub </a>
+  <br>
+  I'm working on Big Data, Spark, python on project related to insurance domain.
+  Where we deal with problems like customer data analysis, understand narket growth and act accordingly
+  We also work on fraud detection using pattern analysis
+  Having 12 Yrs of experience in software development
+  </br>
+  </p>
